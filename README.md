@@ -1,7 +1,7 @@
 # Data Mart Building
 
 ## intoduction:
-In this project, we foucs on building sales data mart for a company by  extracting new and updated data from the AdventureWorks2019 (OLTP data) database, create a star schema and load data to dimensions and fact tables after transforming the data, and finally apply full, incremental, and slow-changing dimension (SCD) loading.
+In this project, I focus on building a sales data mart for a company by extracting new and updated data from the AdventureWorks2019 (OLTP data) database, creating a star schema and load data to dimensions and fact tables after transforming the data, and finally applying full, incremental, and slow-changing dimension (SCD) loading.
 
 #### Data Mart: is a subject-oriented database that is often a partitioned segment of an enterprise data warehouse.
 
